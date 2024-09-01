@@ -1,0 +1,13 @@
+{
+    "x-api-key": "h9tRbOJzcH9O8mDsWRVey6OimYrqYUdg4c4IKNTf",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer null",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "48e4edac-e56a-49d6-bc94-4dda5b47227a",
+    "Host": "sandbox.bank78.co",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "224"
+}
