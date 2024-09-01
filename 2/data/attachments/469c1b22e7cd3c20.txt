@@ -1,0 +1,10 @@
+{
+  "accountReference": "2327323232",
+  "accountName": "Adolf Hitler",
+  "emailAddress": "leavemebe@gi.go",
+  "phoneNumber": "07012345678",
+  "bvn": "",
+  "accountType": 0,
+  "expiresOn": "2023-11-13T12:04:59.460Z",
+  "customerGeneratedNuban": null
+}
