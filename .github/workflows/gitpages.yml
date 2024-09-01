@@ -128,7 +128,7 @@ jobs:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           SLACK_CHANNEL: 'C070KUKPDLZ'
           SLACK_MESSAGE: |
-            *Bank78 Retail - API Quality Readiness*
+            *Bank78 Merchant - API Quality Readiness*
             *Contributors - Wuraola Williams, Larry Ogbe*
             Status: ${{ job.status }}
             Passing Tests: ${{ steps.parse_new_json.outputs.passing_percentage }}%
