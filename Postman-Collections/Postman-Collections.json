@@ -28,11 +28,13 @@
 								"id": "2233a967-98ba-4cb4-9fde-ee313aca7522",
 								"exec": [
 									"var jsonData = JSON.parse(responseBody);\r",
+									"\r",
 									"pm.collectionVariables.set(\"token\", jsonData.access_token); \r",
 									"\r",
 									"pm.test(\"Status code is 200\", function () {\r",
 									"    pm.response.to.have.status(200);\r",
 									"});\r",
+									"\r",
 									"\r",
 									"pm.test(\"Access token is present in the response\", function () {\r",
 									"    var jsonData = pm.response.json();\r",
