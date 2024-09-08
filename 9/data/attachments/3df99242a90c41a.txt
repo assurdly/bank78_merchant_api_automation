@@ -1,0 +1,1 @@
+{"hasResult":false,"result":null,"resultType":3,"message":"Response has validation errors","validationMessages":["The field Amount must be between 1 and 2147483647."],"successful":false,"errorCode":0,"responseCode":null}
