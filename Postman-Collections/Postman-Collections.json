@@ -99,13 +99,25 @@
 								},
 								{
 									"key": "client_id",
-									"value": "ECBEECBC7CE5434DBA509B9375203EC1",
+									"value": "C59B865B9CCB490098F6C442205F53FB",
 									"type": "text"
 								},
 								{
 									"key": "client_secret",
-									"value": "E166C7F9E6EA4D899A499EE239FCD930",
+									"value": "940992150D6C4C05A30AF40080D360D1",
 									"type": "text"
+								},
+								{
+									"key": "username",
+									"value": "circle@mailinator.com",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "password",
+									"value": "@Testing123",
+									"type": "text",
+									"disabled": true
 								}
 							]
 						},
