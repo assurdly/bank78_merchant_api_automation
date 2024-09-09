@@ -94,17 +94,7 @@
 								},
 								{
 									"key": "grant_type",
-									"value": "password",
-									"type": "text"
-								},
-								{
-									"key": "username",
-									"value": "circle@mailinator.com",
-									"type": "text"
-								},
-								{
-									"key": "password",
-									"value": "@Testing123",
+									"value": "client_credentials",
 									"type": "text"
 								},
 								{
