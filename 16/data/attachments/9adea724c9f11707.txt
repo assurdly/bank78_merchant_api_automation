@@ -1,0 +1,1 @@
+{"hasResult":false,"result":null,"resultType":3,"message":"Response has validation errors","validationMessages":["Error converting value {null} to type 'System.Decimal'. Path 'amount', line 8, position 16."],"successful":false,"errorCode":0,"responseCode":null}
