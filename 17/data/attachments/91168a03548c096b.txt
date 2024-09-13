@@ -1,0 +1,1 @@
+{"hasResult":false,"result":null,"resultType":3,"message":"Response has validation errors","validationMessages":["Input string '100a' is not a valid decimal. Path 'amount', line 8, position 16."],"successful":false,"errorCode":0,"responseCode":null}
