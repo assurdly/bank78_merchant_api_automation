@@ -1,0 +1,9 @@
+{
+  "beneficiaryAccountName": "Matthew",
+  "beneficiaryAccountNumber": "7880000028",
+  "originatorAccountName": "Matthew Idowu",
+  "originatorAccountNumber": "0220901228",
+  "narration": "this is a trest",
+  "paymentReference": "Testrefere",
+  "amount": 100
+}

@@ -1,0 +1,1 @@
+{"hasResult":false,"result":null,"resultType":2,"message":"Duplicate Transaction","validationMessages":null,"successful":false,"errorCode":1027,"responseCode":"DuplicateEntry"}
