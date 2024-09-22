@@ -1,0 +1,12 @@
+{
+    "Date": "Sun, 22 Sep 2024 20:06:20 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "23",
+    "Connection": "keep-alive",
+    "x-amzn-RequestId": "b3f1a5e3-7f1a-4523-a357-a41b8802e3d6",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,Useragent,User-Agent,Device-Channel",
+    "x-amzn-ErrorType": "ForbiddenException",
+    "x-amz-apigw-id": "ehfNkHLljoEEVcw=",
+    "Access-Control-Allow-Methods": "DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT"
+}
