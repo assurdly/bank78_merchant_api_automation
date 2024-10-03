@@ -1,0 +1,18 @@
+{
+    "Date": "Thu, 03 Oct 2024 18:05:07 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "0",
+    "Connection": "close",
+    "x-amzn-RequestId": "dfeafab7-e52b-4d28-9a85-6a3fc3536629",
+    "CF-RAY": "8ccedbcb680d56d5-DUB",
+    "CF-Cache-Status": "DYNAMIC",
+    "x-amzn-Remapped-Content-Length": "0",
+    "x-amzn-Remapped-Connection": "keep-alive",
+    "x-amz-apigw-id": "fFdxIGz6joEELNQ=",
+    "x-amzn-Remapped-Server": "cloudflare",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=cNhmBK9OWLfGpOB%2F5jZyiAJyb%2BZa6xohndcE02Z5CZDKvegZNxCoaQToxmvHlLU9d6bRM1bEn74Rb368BF6k42FAygKE6tbJqWpC%2BC%2BVR0oK8ciwlj5VlMk%2B6zSvTCjo8Ml3KEgXyqHGplhrilA%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "x-amzn-Remapped-www-authenticate": "Bearer error=\"invalid_token\", error_description=\"The signature is invalid\"",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-amzn-Remapped-Date": "Thu, 03 Oct 2024 18:05:07 GMT"
+}
