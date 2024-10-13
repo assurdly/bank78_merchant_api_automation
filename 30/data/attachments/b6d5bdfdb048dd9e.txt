@@ -1,0 +1,1 @@
+{"hasResult":true,"result":{"transactionReference":"110072241013200656632560991052","responseMessage":"Transaction Acknowledged","notificationLogId":"a9808108-59db-4392-a849-3c3ff1ff2c8c"},"resultType":1,"message":null,"validationMessages":null,"successful":true,"errorCode":0,"responseCode":null}
