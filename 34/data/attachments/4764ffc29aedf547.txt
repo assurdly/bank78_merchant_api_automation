@@ -1,0 +1,1 @@
+{"hasResult":true,"result":{"merchantId":9,"accountNumber":"0234000012","reservationReference":"8DCEF9EDE052F6D","accountReference":"2327323232","bankCode":"110072","bankName":"Bank78","accountName":"Christine Beatty","amount":null},"resultType":1,"message":null,"validationMessages":null,"successful":true,"errorCode":0,"responseCode":null}
