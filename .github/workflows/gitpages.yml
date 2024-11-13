@@ -9,6 +9,7 @@ on:
     - cron: '0 20 * * 0' # Runs every Sunday by 4pm
 jobs:
   run_tests:
+    if: github.event_name == 'schedule' || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -129,7 +130,7 @@ jobs:
           SLACK_CHANNEL: 'C070KUKPDLZ'
           SLACK_MESSAGE: |
             *Bank78 Merchant - API Quality Readiness*
-            *Contributors - Wuraola Williams, Larry Ogbe*
+            *Contributors - Ayomide Liasu, Larry Ogbe*
             Status: ${{ job.status }}
             Passing Tests: ${{ steps.parse_new_json.outputs.passing_percentage }}%
             Failing Tests: ${{ steps.parse_new_json.outputs.failing_percentage }}%
