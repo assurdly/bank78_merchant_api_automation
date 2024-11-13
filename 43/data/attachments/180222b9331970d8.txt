@@ -1,0 +1,10 @@
+{
+  "accountReference": "Testv",
+  "accountName": "Telly Rohan Test",
+  "emailAddress": "",
+  "phoneNumber": "",
+  "bvn": "",
+  "accountType": 2,
+  "expiresOn": "2024-06-13T12:04:59.460Z",
+  "customerGeneratedNuban": null
+}
