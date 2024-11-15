@@ -1,0 +1,19 @@
+{
+    "Date": "Fri, 15 Nov 2024 18:01:20 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "0",
+    "Connection": "close",
+    "x-amzn-RequestId": "ccda3c40-d1c1-47fc-ac46-ac9c824c3c67",
+    "CF-RAY": "8e31256089f9be05-DUB",
+    "cf-cache-status": "DYNAMIC",
+    "x-amzn-Remapped-Content-Length": "0",
+    "x-amzn-Remapped-Connection": "keep-alive",
+    "x-amz-apigw-id": "BTLhqHjxDoEEZog=",
+    "x-amzn-Remapped-Server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=1470&sent=6&recv=8&lost=0&retrans=0&sent_bytes=2834&recv_bytes=1757&delivery_rate=2011111&cwnd=252&unsent_bytes=0&cid=b8bb21c2480d9665&ts=126&x=0\"",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=1G7IdbxevdANCJWxLiLXUNnAuiBGT6dKyAgH9QrXJNehjpCrfshrgY7%2B4dga5qpwsNpptetuE1YjhveJsLWMnZjrNVY%2FYgk24t%2BChRzneeZMlKzxVpIrgzdbME1cm6MaM9F2DyCk7BRRVUNyUTQ%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "x-amzn-Remapped-www-authenticate": "Bearer error=\"invalid_token\", error_description=\"The signature is invalid\"",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-amzn-Remapped-Date": "Fri, 15 Nov 2024 18:01:20 GMT"
+}
