@@ -1,0 +1,11 @@
+{
+    "x-api-key": "{{VNapiKey}}",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "410b48fd-5d5d-4da2-b0d2-543d109a8a9d",
+    "Host": "sandbox.bank78.co",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "103"
+}
