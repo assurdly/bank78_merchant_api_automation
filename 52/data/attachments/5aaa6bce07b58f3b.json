@@ -1,0 +1,12 @@
+{
+    "Date": "Sun, 01 Dec 2024 20:06:46 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "23",
+    "Connection": "keep-alive",
+    "x-amzn-RequestId": "f3f06cc1-3579-4d9a-808c-0b4b8c7d46f4",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "*",
+    "x-amzn-ErrorType": "ForbiddenException",
+    "x-amz-apigw-id": "CIM5lECejoEEs7Q=",
+    "Access-Control-Allow-Methods": "DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT"
+}

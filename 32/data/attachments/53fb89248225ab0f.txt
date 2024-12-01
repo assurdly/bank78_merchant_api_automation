@@ -1,1 +1,0 @@
-{"hasResult":true,"result":{"merchantId":9,"accountNumber":"0234000096","reservationReference":"8DCEF9EDE6D1144","accountReference":"232732323b","bankCode":"110072","bankName":"Bank78","accountName":"Adolf Hitler","amount":null},"resultType":1,"message":null,"validationMessages":null,"successful":true,"errorCode":0,"responseCode":null}
