@@ -1,0 +1,19 @@
+{
+    "Date": "Thu, 19 Dec 2024 18:05:41 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "0",
+    "Connection": "keep-alive",
+    "x-amzn-RequestId": "41084e20-0e84-401c-b5f3-f4b923cd5f03",
+    "CF-RAY": "8f495280498abe16-DUB",
+    "cf-cache-status": "DYNAMIC",
+    "x-amzn-Remapped-Content-Length": "0",
+    "x-amzn-Remapped-Connection": "keep-alive",
+    "x-amz-apigw-id": "DDQCdFJ7joEERIg=",
+    "x-amzn-Remapped-Server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=959&min_rtt=942&rtt_var=296&sent=6&recv=9&lost=0&retrans=0&sent_bytes=2832&recv_bytes=2012&delivery_rate=2878727&cwnd=252&unsent_bytes=0&cid=ba246c4067b7347c&ts=47&x=0\"",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=spBMDi5JNFQPH11qcHTBn8RTjJ8SRyOwMyXHSxf9%2FEC2ZJ2fhgUKdF8gQBgxHeU4fmkMjMJ0fnchSC%2BAQkdK%2Fia6Q%2FfOVmvQ9Gu6bE0r4eRthPspl6cBViCS1ce1fgHVm2x4V3Mie9Wwe1sgpRY%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "x-amzn-Remapped-www-authenticate": "Bearer error=\"invalid_token\", error_description=\"The signature key was not found\"",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-amzn-Remapped-Date": "Thu, 19 Dec 2024 18:05:41 GMT"
+}

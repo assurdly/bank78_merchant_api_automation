@@ -1,0 +1,18 @@
+{
+    "Date": "Thu, 19 Dec 2024 18:05:49 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "133",
+    "Connection": "keep-alive",
+    "x-amzn-RequestId": "26080167-098b-47a3-8a57-d2c54442ac04",
+    "CF-RAY": "8f4952af3e2dbe46-DUB",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "br",
+    "x-amzn-Remapped-Connection": "keep-alive",
+    "x-amz-apigw-id": "DDQDpGLxDoEEj2w=",
+    "x-amzn-Remapped-Server": "cloudflare",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=758&min_rtt=732&rtt_var=238&sent=6&recv=8&lost=0&retrans=0&sent_bytes=2832&recv_bytes=1718&delivery_rate=3956284&cwnd=252&unsent_bytes=0&cid=352776a44889d6c6&ts=143&x=0\"",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ZSROCojYFpsZp0qdoR9scjR8tLDy%2B2sI1AE1fORn2ktw6nWfEa9Sydt%2FmZoqyM6QoHFaQzOoAUFMT7TLoaT73j%2FwtX6gUlk3wSMsJ4i3KzKQcbv%2FfLCfyUghwVJX7O%2BupRvgN21%2FMt%2B%2FRINki3I%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "x-amzn-Remapped-Date": "Thu, 19 Dec 2024 18:05:49 GMT"
+}
