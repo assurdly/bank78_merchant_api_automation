@@ -1,0 +1,10 @@
+{
+  "accountReference": "2327323232",
+  "accountName": "Ransom Hoppe",
+  "emailAddress": "Zoe@mailinator.com",
+  "phoneNumber": "07012345678",
+  "bvn": "",
+  "accountType": 1,
+  "expiresOn": "2023-11-13T12:04:59.460Z",
+  "customerGeneratedNuban": null
+}
